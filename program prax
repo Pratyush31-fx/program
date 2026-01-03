@@ -1,0 +1,6 @@
+name="Pratyush yadav"
+age=14
+price=24.90
+print("my name is",name)
+print("my age is",age)
+print("my price is",price)
